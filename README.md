@@ -1,0 +1,1 @@
+A Netflix-inspired streaming platform built using the MERN stack (MongoDB, Express, React, Node.js). This clone replicates core features of Netflix including authentication, movie browsing, category-based filtering, and dynamic playback UI.
